@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Let's create something extraordinary!</h3>
+<h3 align="center">A FullStack Developer from India</h3>
 
 ```js
 const name = 'Himanshu';
