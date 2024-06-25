@@ -1,18 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A FullStack Developer from India</h3>
+## Hey 👋, I'm [Himanshu!](https://my-portfolio-psi-pied.vercel.app/) and you've reached my Dev space on the WWW :)
 
-```js
-const name = 'Himanshu';
-
-Developer dev = new Developer(name);
-
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openChatGpt();
-  dev.drinkCoffee();
-}
-```
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/17himanshu)
