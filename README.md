@@ -1,11 +1,9 @@
 ## Hey 👋, I'm [Himanshu!](https://my-portfolio-psi-pied.vercel.app/) Welcome to my digital playground on the WWW:) 🚀✨
 
-<hr>
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/17himanshu)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemaanshuuu)
 
-
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
 - 🌱 I’m currently learning **Next.js**
 
