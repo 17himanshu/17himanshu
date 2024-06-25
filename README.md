@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Himanshu!](https://my-portfolio-psi-pied.vercel.app/) Welcome to my digital playground on the World Wide Web! 🚀✨
+## Hey 👋, I'm [Himanshu!](https://my-portfolio-psi-pied.vercel.app/) Welcome to my digital playground on the WWW:) 🚀✨
 
 <hr>
 
