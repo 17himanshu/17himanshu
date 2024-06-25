@@ -14,7 +14,10 @@ while(dev.isCoding())
 }
 ```
 
-<p align="left"> <a href="https://twitter.com/hemaanshuuu" target="blank"><img src="https://img.shields.io/twitter/follow/hemaanshuuu?logo=twitter&style=for-the-badge" alt="hemaanshuuu" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/17himanshu)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hemaanshuuu)
+
+
 
 - 🌱 I’m currently learning **Next.js**
 
