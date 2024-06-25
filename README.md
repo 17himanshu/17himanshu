@@ -7,6 +7,25 @@
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Full stack Web 🕸️ Development. Let's create something extraordinary!
 
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactNative, Firebase, Graphql, Apollo & Tailwind.
+- 👀 &nbsp; What I want to learn: WASM, Golang, Rust(should I?)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
+- 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022) or vik.bhat223@gmail.com.
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
+<!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
+- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+- ⚡ &nbsp; Fun fact: I love to play guitar and there is a 88% probability that I'll beat you in a badminton match :p
+
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **full-stack projects**
