@@ -5,13 +5,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Web 🕸️ Development.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Full stack Web 🕸️ Development. Let's create something extraordinary!
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-psi-pied.vercel.app/](https://my-portfolio-psi-pied.vercel.app/)
+- 👨‍💻 All of my projects are available at [here](https://my-portfolio-psi-pied.vercel.app/)
 
 - 💬 Ask me about **react, node, javascript**
 
