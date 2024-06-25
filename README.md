@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Let's create something extraordinary!</h3>
 
-const name = 'Himanshu';
+```js
+const name = 'Sambhav';
 
 Developer dev = new Developer(name);
 
@@ -11,6 +12,7 @@ while(dev.isCoding())
   dev.openChatGpt();
   dev.drinkCoffee();
 }
+```
 
 <p align="left"> <a href="https://twitter.com/hemaanshuuu" target="blank"><img src="https://img.shields.io/twitter/follow/hemaanshuuu?logo=twitter&style=for-the-badge" alt="hemaanshuuu" /></a> </p>
 
