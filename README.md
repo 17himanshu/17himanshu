@@ -15,7 +15,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactJS, Prisma & Tailwind.
 - 👀 &nbsp; What I want to learn: Django, Golang, Rust(should I?)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [my website](https://my-portfolio-psi-pied.vercel.app/).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [my website](https://my-portfolio-psi-pied.vercel.app/) and [github](https://github.com/17himanshu).
 - 💬 &nbsp; Ask me about react, node and javascript
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/hemaanshuuu) or mymailforhimanshu@gmail.com.
