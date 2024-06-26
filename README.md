@@ -34,6 +34,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### Projects and Dev Stuff:
 
 <details>
+<summary><b>🚀 Github Trophies</b></summary>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=17himanshu" alt="17himanshu" /></p>
+</details>
+
+<details>
 <summary><b>⚡ Github Stats</b></summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=17himanshu&show_icons=true&locale=en" alt="17himanshu" /></p>
 </details>
@@ -42,6 +47,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <summary><b>☄️ Github Streaks</b></summary>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17himanshu&" alt="17himanshu" /></p>
 </details>
+
 
 #
 
