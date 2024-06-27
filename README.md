@@ -20,7 +20,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/hemaanshuuu) or mymailforhimanshu@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1lHweb5penZNe5YF0lboOWgahjQWnlyk8/view?usp=sharing)
-- 🚀 &nbsp; I’m currently diving deep into NextJS.
+- 🚀 &nbsp; I am currently diving deep into NextJS.
   
 ### My Absolute Favorites:
 
