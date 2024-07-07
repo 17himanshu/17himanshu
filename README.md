@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhatvikrant.bhatvikrant&style=flat-square&color=0088cc)
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into Full stack Web 🕸️ Development. Let's create something extraordinary!
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm deep into full-stack web 🕸️ Development. Let's create something extraordinary!
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
@@ -13,7 +13,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, ReactJS, Prisma & Tailwind.
+- 🛠 &nbsp; Currently working with NextJS, Typescript, NodeJS, ReactJS, Prisma & Tailwind.
 - 👀 &nbsp; What I want to learn: Django, Golang, Rust(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [my website](https://my-portfolio-psi-pied.vercel.app/) and [github](https://github.com/17himanshu).
 - 💬 &nbsp; Ask me about react, node and javascript
@@ -25,7 +25,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to explore new tech and build cool stuff with it.
-- 📰 &nbsp; Love reading tech blogs.
+- 📰 &nbsp I love reading tech blogs.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +45,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <details>
 <summary><b>☄️ Github Streaks</b></summary>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17himanshu&" alt="17himanshu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17himanshu&" alt="17himanshu"/></p>
 </details>
 
 
